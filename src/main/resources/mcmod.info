@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "An example mod for Minecraft 1.12.2 with Forge",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "logo.png",
+    "url": "",
+    "authorList": ["Randomdude9587"],
+    "credits": "The developers of GTCEu for helping me figure out what to do",
+    "dependencies": []
+}]

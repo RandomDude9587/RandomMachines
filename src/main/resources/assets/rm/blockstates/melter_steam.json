@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "rm:blocks/bronze_casing"
+
+    },
+    "model": "cube_all",
+    "uvlock": "true"
+  },
+  "variants": {
+    "normal": [{
+      "x-axis": "rm:overlay/MelterSide-Overlay"
+    }]
+  }
+}
